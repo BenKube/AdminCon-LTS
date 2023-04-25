@@ -1,0 +1,5 @@
+echo /s Running-Processes:
+
+lisp -M
+
+pause

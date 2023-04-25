@@ -1,0 +1,5 @@
+# Ignore following directories:
+packages/cef.redist.x64.95.7.14
+packages/cef.redist.x86.95.7.14
+UpgradeLog.htm
+.vs
